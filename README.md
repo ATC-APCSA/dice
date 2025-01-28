@@ -1,4 +1,4 @@
-// This script is code by Art Simon (https://github.com/simart)
+This script is code by Art Simon (https://github.com/simart)
 
 Dice
 ====
